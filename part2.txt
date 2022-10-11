@@ -1,5 +1,5 @@
 Fill in the passphrases here.
-Passcode: JavaScriptRules
+
  Passcode for question 1: greenEggsAndHam 
 question2="iHateCplusplus"
  Passcode for question 3: HTMLRocks
